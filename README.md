@@ -1,7 +1,51 @@
 # About Me
 ### Hi there 👋
 
-I'm a junior full stack developer with a strong focus in `Java`. In addition to my full stack development skills, I've a strong interest in `data analytics` and `cloud engineering`. I'm currently preparing for the `AWS Certified Developer - Associate certification` as I seek to expand my knowledge and capabilities in these areas. I'm excited to continue learning and growing as a developer, and I'm eager to contribute my skills and expertise to a team or organization.
+<details>
+<summary>✨ My Java Developer Roadmap ✨</summary>
+ <summary>As a junior full stack developer, my developer roadmap involves a number of concepts and technologies that I have learnt over the years.</summary>
+ <summary>This table shows a timeframe of my development journey.</summary>
+ <summary>Some concepts may reappear more than once as revisiting topics are essential.</summary>
+ <summary>The most bottom is the recent concept learnt / in progress.</summary>
+  
+ | 2020    | 2021 | 2022 | 2023 |
+ | ------- |----- | ---- | ---- |
+ | AWS SAA | HTML | Tableau
+ | Python  | CSS  | DataGrip
+ || JavaScript | Python
+ || Linux | Java
+ || MySQL | Github
+ ||| IntelliJ
+ ||| Core Java
+ ||| Unit Test
+ ||| REST API
+ ||| Spring Boot
+ ||| Maven
+ ||| Docker
+ ||| MySQL / NoSQL / PostgreSQL
+ ||| MongoDB & Atlas
+ ||| VS Code
+ ||| ESLint
+ ||| NodeJS
+ ||| DOM Manipulation
+ ||| ES7
+ ||| npm
+ ||| React
+ ||| CSS Modules
+ ||| Mocha / Chai / Jest / Cypress
+ ||| Next.js
+ ||| Microsoft Azure
+ ||| Github Actions & Workflows
+ ||| Spring Security
+ ||| Next Authentication
+ ||| Google Maps API
+ ||| Tailwind CSS
+ ||| Railway.app
+ ||| AWS DA
+ 
+</details>
+
+I'm a junior `full stack developer` with a strong focus in `Java`. In addition to my full stack development skills, I've a strong interest in `data analytics` and `cloud engineering`. I'm currently preparing for the `AWS Certified Developer - Associate certification` as I seek to expand my knowledge and capabilities in these areas. I'm excited to continue learning and growing as a developer, and I'm eager to contribute my skills and expertise to a team or organization.
 
 In my free time, I enjoy staying up to date with the latest technology trends and exploring new tools and frameworks. Overall, I am a motivated and enthusiastic learner, always looking for ways to improve and make a positive impact in the tech industry.
 
@@ -10,8 +54,13 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 -  learning/preparing for [AWS Developer - Associate Certification](https://aws.amazon.com/certification/certified-developer-associate/)
  
 ## 🌱 Seeking to expand knowledge in:
-- ss
-ss
+- Docker
+- Kubernetes
+- TypeScript
+- Spring Cloud
+
+
+
 
 
 <!--
