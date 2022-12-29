@@ -51,7 +51,7 @@
  
 </details>
 
-I'm a junior `full-stack developer` with a strong focus on `Java`. In addition to my full stack development skills, I've a strong interest in `data analytics` and `cloud engineering`. I'm currently preparing for the `AWS Certified Developer - Associate certification` as I seek to expand my knowledge and capabilities in these areas. I'm excited to continue learning and growing as a developer, and I'm eager to contribute my skills and expertise to a team or organization.
+I'm a `full-stack developer` with a strong focus on `Java`. In addition to my full stack development skills, I've a strong interest in `data analytics` and `cloud engineering`. I'm currently preparing for the `AWS Certified Developer - Associate certification` as I seek to expand my knowledge and capabilities in these areas. I'm excited to continue learning and growing as a developer, and I'm eager to contribute my skills and expertise to a team or organization.
 
 In my free time, I enjoy staying up to date with the latest technology trends and exploring new tools and frameworks. Overall, I'm a motivated and enthusiastic learner, always looking for ways to improve and make a positive impact in the tech industry.
 
