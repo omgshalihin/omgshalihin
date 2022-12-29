@@ -50,7 +50,7 @@ I'm a junior `full stack developer` with a strong focus in `Java`. In addition t
 In my free time, I enjoy staying up to date with the latest technology trends and exploring new tools and frameworks. Overall, I am a motivated and enthusiastic learner, always looking for ways to improve and make a positive impact in the tech industry.
 
 ## 🔭 I’m currently:
--  improving Salt's Graduation Project called [HireMe](https://github.com/omgshalihin/skillsondemand)
+-  improving Salt's Graduation Project called [HireMe](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (repository: [skillsondemand](https://github.com/omgshalihin/skillsondemand))
 -  learning/preparing for [AWS Developer - Associate Certification](https://aws.amazon.com/certification/certified-developer-associate/)
  
 ## 🌱 Seeking to expand knowledge in:
