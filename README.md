@@ -5,18 +5,17 @@
 <summary>✨ My Java Developer Roadmap ✨</summary>
  <summary>As a junior full-stack developer, my developer roadmap involves a number of concepts and technologies that I have learnt over the years.</summary>
  <summary>This table shows a timeframe of my development journey.</summary>
- <summary>Some concepts may reappear more than once as revisiting topics are essential.</summary>
- <summary>The most bottom is the recent concept learnt / in progress.</summary>
+ <summary>Some concepts may re-appear more than once as revisiting topics are essential.</summary>
+ <summary>The most bottom is the recent concept that i've learnt / i'm learning.</summary>
   
  | 2020    | 2021 | 2022 | 2023 |
  | ------- |----- | ---- | ---- |
  | AWS SAA | HTML | Tableau
  | Python  | CSS  | DataGrip
  || JavaScript | Python
- || Linux | Java
- || MySQL | Github
+ || Linux | GitHub
+ || MySQL | Core Java
  ||| IntelliJ
- ||| Core Java
  ||| Unit Test
  ||| REST API
  ||| Spring Boot
