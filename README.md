@@ -12,13 +12,16 @@
  
  ### Development Journey Timeframe Table
   
- | 2020    | 2021 | 2022 | 2023 |
- | ------- |----- | ---- | ---- |
- | AWS SAA | HTML | Tableau
- | Python  | CSS  | DataGrip
- || JavaScript | Python
- || Linux | GitHub
- || MySQL | Core Java
+ | 2020           | 2021 | 2022 | 2023 |
+ | -------------- | ---- | ---- | ---- |
+ | AWS Essentials | HTML | Tableau
+ | AWS SA Assc    | CSS  | DataGrip
+ | Python         | JavaScript | Python
+ | Atom IDE       | Linux      | pandas
+ || MySQL | NumPy
+ ||| matplotlib
+ ||| Core Java
+ ||| GitHub
  ||| IntelliJ
  ||| Unit Test
  ||| REST API
@@ -44,7 +47,7 @@
  ||| Google Maps API
  ||| Tailwind CSS
  ||| Railway.app
- ||| AWS DA
+ ||| AWS Dev Assc
  
 </details>
 
