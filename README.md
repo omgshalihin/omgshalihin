@@ -52,6 +52,9 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 ## 🔭 I’m currently:
 -  improving Salt's Graduation Project called [HireMe](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (repository: [skillsondemand](https://github.com/omgshalihin/skillsondemand))
 -  learning/preparing for [AWS Developer - Associate Certification](https://aws.amazon.com/certification/certified-developer-associate/)
+
+## ⚡ Fun personal project:
+- hackday project called [Evently Social](https://event-management-frontend-production.up.railway.app/) to address the needs of users wanting to `attend an event with a friend`. (repository: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend))
  
 ## 🌱 Seeking to expand knowledge in:
 - Docker
