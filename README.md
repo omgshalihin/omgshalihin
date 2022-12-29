@@ -56,11 +56,11 @@ I'm a junior `full-stack developer` with a strong focus on `Java`. In addition t
 In my free time, I enjoy staying up to date with the latest technology trends and exploring new tools and frameworks. Overall, I'm a motivated and enthusiastic learner, always looking for ways to improve and make a positive impact in the tech industry.
 
 ## 🔭 I’m Currently:
--  improving Salt's Graduation Project called [HireMe](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (repository: [skillsondemand](https://github.com/omgshalihin/skillsondemand)).
--  learning / preparing for [AWS Developer - Associate Certification](https://aws.amazon.com/certification/certified-developer-associate/).
+- Improving Salt's graduation project called [HireMe](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (repository: [skillsondemand](https://github.com/omgshalihin/skillsondemand)).
+- Learning / preparing for [AWS Developer - Associate Certification](https://aws.amazon.com/certification/certified-developer-associate/).
 
 ## ⚡ Fun Personal Project:
-- hackday project called [Evently Social](https://event-management-frontend-production.up.railway.app/) to address the needs of users wanting to `attend an event with a friend` (repository: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
+- Hackday project called [Evently Social](https://event-management-frontend-production.up.railway.app/) to address the needs of users wanting to `attend an event with a friend` (repository: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
  
 ## 🌱 Seeking To Expand Knowledge In:
 - Docker
