@@ -1,12 +1,16 @@
 # About Me
-### Hi there 👋
+### Hi There 👋
 
 <details>
-<summary>✨ My Java Developer Roadmap ✨</summary>
- <summary>As a junior full-stack developer, my developer roadmap involves a number of concepts and technologies that I have learnt over the years.</summary>
- <summary>This table shows a timeframe of my development journey.</summary>
- <summary>Some concepts may re-appear more than once as revisiting topics are essential.</summary>
- <summary>The most bottom is the recent concept that i've learnt / i'm learning.</summary>
+ <summary>✨ My Java Developer Roadmap ✨</summary>
+ 
+ ### Short Description
+ * My developer roadmap involves a number of concepts and technologies that I have `learnt over the years`.
+ * This table shows a `timeframe of my development` journey.
+ * Some concepts may re-appear more than once as `revisiting topics` are essential.
+ * The `most bottom` is the `recent concept` that I have learnt / am learning.
+ 
+ ### Development Journey Timeframe Table
   
  | 2020    | 2021 | 2022 | 2023 |
  | ------- |----- | ---- | ---- |
@@ -48,14 +52,14 @@ I'm a junior `full-stack developer` with a strong focus on `Java`. In addition t
 
 In my free time, I enjoy staying up to date with the latest technology trends and exploring new tools and frameworks. Overall, I'm a motivated and enthusiastic learner, always looking for ways to improve and make a positive impact in the tech industry.
 
-## 🔭 I’m currently:
--  improving Salt's Graduation Project called [HireMe](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (repository: [skillsondemand](https://github.com/omgshalihin/skillsondemand))
--  learning/preparing for [AWS Developer - Associate Certification](https://aws.amazon.com/certification/certified-developer-associate/)
+## 🔭 I’m Currently:
+-  improving Salt's Graduation Project called [HireMe](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (repository: [skillsondemand](https://github.com/omgshalihin/skillsondemand)).
+-  learning/preparing for [AWS Developer - Associate Certification](https://aws.amazon.com/certification/certified-developer-associate/).
 
-## ⚡ Fun personal project:
-- hackday project called [Evently Social](https://event-management-frontend-production.up.railway.app/) to address the needs of users wanting to `attend an event with a friend`. (repository: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend))
+## ⚡ Fun Personal Project:
+- hackday project called [Evently Social](https://event-management-frontend-production.up.railway.app/) to address the needs of users wanting to `attend an event with a friend` (repository: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
  
-## 🌱 Seeking to expand knowledge in:
+## 🌱 Seeking To Expand Knowledge In:
 - Docker
 - Kubernetes
 - TypeScript
