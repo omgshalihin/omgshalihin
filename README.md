@@ -1,8 +1,8 @@
 # About Me
-### Hi There 👋
+### Hi there 👋
 
 <details>
- <summary>✨ My Java Developer Roadmap ✨</summary>
+ <summary>Expand/Collapse --- ✨ My Java Developer Roadmap ✨</summary>
  
  ### Short Description
  * My developer roadmap involves a number of concepts and technologies that I have `learnt over the years`.
