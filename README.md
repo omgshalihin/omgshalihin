@@ -68,6 +68,7 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 - Kubernetes
 - TypeScript
 - Spring Cloud
+- Serverless
 
 
 
