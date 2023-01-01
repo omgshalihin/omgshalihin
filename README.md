@@ -18,7 +18,7 @@
  | AWS SA Assc    | CSS  | DataGrip | AWS EC2 Fundamentals
  | Python         | JavaScript | Python | AWS Security Groups
  | Atom IDE       | Linux      | pandas | AWS SSH / EC2 Instance Connect
- || MySQL | NumPy | AWS EBS
+ || MySQL | NumPy | AWS EBS | serverless with spring cloud functions
  ||| matplotlib
  ||| Core Java
  ||| GitHub
