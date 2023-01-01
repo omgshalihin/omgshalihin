@@ -14,9 +14,9 @@
   
  | 2020           | 2021 | 2022 | 2023 |
  | -------------- | ---- | ---- | ---- |
- | AWS Essentials | HTML | Tableau
- | AWS SA Assc    | CSS  | DataGrip
- | Python         | JavaScript | Python
+ | AWS Essentials | HTML | Tableau | AWS IAM
+ | AWS SA Assc    | CSS  | DataGrip | AWS EC2 Fundamentals
+ | Python         | JavaScript | Python | AWS Security Groups
  | Atom IDE       | Linux      | pandas
  || MySQL | NumPy
  ||| matplotlib
