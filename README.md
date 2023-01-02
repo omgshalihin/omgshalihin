@@ -2,25 +2,28 @@
   <img width="100%" height="auto" src="https://github.com/omgshalihin/omgshalihin/blob/main/particle-banner.gif">
 </p>
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=omgshalihin&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=00000000"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=omgshalihin&count_private=true&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<p align="center">
+  <img width="auto" height="auto" src="https://streak-stats.demolab.com?user=omgshalihin&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=96D0FF&background=00000000&fire=96D0FF&currStreakLabel=96D0FF">
+</p>
 
 
 
 
+  
+<!--
+[![Shalihin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=omgshalihin&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=00000000&hide=issues#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Shalihin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=omgshalihin&count_private=true&show_icons=true&theme=default&hide_border=true&bg_color=00000000&hide=issues#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omgshalihin&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=omgshalihin&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=96D0FF&background=00000000&fire=96D0FF&currStreakLabel=96D0FF)](https://git.io/streak-stats)
+-->
 
 
-# About Me
-### Hi there 👋
+
+
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> ![ visitors ](https://visitor-badge.glitch.me/badge?page_id=omgshalihin.omgshalihin&left_color=black&right_color=red)
 
 <details>
  <summary>Expand/Collapse --- ✨ My Java Developer Roadmap ✨</summary>
@@ -92,6 +95,11 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 - Spring Cloud
 - Serverless
 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> GitHub Stats:
+<p align="center">
+  <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api?username=omgshalihin&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=00000000&hide=issues#gh-dark-mode-only">
+  <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgshalihin&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=00000000">
+</p>
 
 
 
