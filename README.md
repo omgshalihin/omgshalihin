@@ -87,8 +87,8 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 
 <div align="center">
   
-  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api?username=omgshalihin&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=00000000&hide=issues#gh-dark-mode-only">
-  <img width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgshalihin&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=00000000">
+  <img width="55%" height="auto" src="https://github-readme-stats.vercel.app/api?username=omgshalihin&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=00000000&hide=issues#gh-dark-mode-only">
+  <img width="35%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgshalihin&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=00000000">
   
 </div>
 
