@@ -1,4 +1,6 @@
-![](https://github.com/omgshalihin/omgshalihin/blob/main/particles-banner.gif)
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/omgshalihin/omgshalihin/blob/main/particles-banner.gif">
+</p>
 
 # About Me
 ### Hi there 👋
