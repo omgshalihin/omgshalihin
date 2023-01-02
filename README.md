@@ -19,7 +19,7 @@
  | Python         | JavaScript | Python | AWS Security Groups
  | Atom IDE       | Linux      | pandas | AWS SSH / EC2 Instance Connect
  || MySQL | NumPy | AWS EBS 
- ||| matplotlib | serverless with spring cloud functions
+ ||| matplotlib | Serverless with spring cloud functions
  ||| Core Java
  ||| GitHub
  ||| IntelliJ
