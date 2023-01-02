@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/omgshalihin/omgshalihin/blob/main/particles-banner.gif">
+  <img width="100%" height="auto" src="https://github.com/omgshalihin/omgshalihin/blob/main/particle-banner.gif">
 </p>
 
 # About Me
