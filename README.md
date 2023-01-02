@@ -1,3 +1,5 @@
+![](https://github.com/omgshalihin/omgshalihin/blob/main/particles-banner.gif)
+
 # About Me
 ### Hi there 👋
 
