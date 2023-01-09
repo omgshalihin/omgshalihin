@@ -31,7 +31,7 @@
  | Atom IDE       | Linux      | pandas | AWS SSH / EC2 Instance Connect
  || MySQL | NumPy | AWS EBS 
  ||| matplotlib | Serverless with spring cloud functions
- ||| Core Java
+ ||| Core Java | TypeScript
  ||| GitHub
  ||| IntelliJ
  ||| Unit Test
