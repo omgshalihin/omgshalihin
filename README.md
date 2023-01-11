@@ -51,6 +51,7 @@
  ||| CSS Modules
  ||| Mocha / Chai / Jest / Cypress
  ||| Next.js
+ ||| Gihub Actions & Workflow
  ||| Microsoft Azure
  ||| Github Actions & Workflows
  ||| Spring Security
@@ -124,6 +125,7 @@ In my free time, I enjoy staying up to date with the latest technology trends an
   ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   
   ### Analytics
   ![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
