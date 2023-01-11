@@ -32,7 +32,7 @@
  || MySQL | NumPy | AWS EBS 
  ||| matplotlib | Serverless with spring cloud functions
  ||| Core Java | TypeScript
- ||| GitHub
+ ||| GitHub | MUI CSS
  ||| IntelliJ
  ||| Unit Test
  ||| REST API
@@ -113,6 +113,7 @@ In my free time, I enjoy staying up to date with the latest technology trends an
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
   ### Cloud / Hosting and Databases
