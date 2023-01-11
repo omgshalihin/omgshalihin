@@ -72,8 +72,9 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 - Broadening knowledge on TypeScript through Salt's Post Graduate Program (**repository**: [TypeScript-PGP](https://github.com/omgshalihin/TypeScript-PGP)).
 
 ## ⚡ Fun Personal Projects:
-- Salt Graduation fullstack app called [HireMe](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (repository: [skillsondemand](https://github.com/omgshalihin/skillsondemand)).
-- Hackday fullstack app called [Evently Social](https://event-management-frontend-production.up.railway.app/) to address the needs of users wanting to `attend an event with a friend` (repository: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
+- Salt Graduation fullstack app called [HireMe](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (**repository**: [skillsondemand](https://github.com/omgshalihin/skillsondemand)).
+- Hackday fullstack app called [Evently Social](https://event-management-frontend-production.up.railway.app/) to address the needs of users wanting to `attend an event with a friend` (**repository**: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
+- Adopt a Puppy fullstack app (**repository**: [puppies-fullstack](https://github.com/omgshalihin/typescript-pgp/tree/main/puppies-fullstack)).
  
 ## 🌱 Seeking To Expand Knowledge In:
 - Docker
