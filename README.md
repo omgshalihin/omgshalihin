@@ -33,7 +33,7 @@
  ||| matplotlib | Serverless with spring cloud functions
  ||| Core Java | TypeScript
  ||| GitHub | MUI CSS
- ||| IntelliJ
+ ||| IntelliJ | Netlify
  ||| Unit Test
  ||| REST API
  ||| Spring Boot
