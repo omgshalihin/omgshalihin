@@ -77,7 +77,7 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 - [`Evently Social`](https://event-management-frontend-production.up.railway.app/) (**repository**: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
 - [`Dog Adoption App`](https://comforting-rolypoly-5e7c45.netlify.app/) (**repository**: [puppies](https://github.com/omgshalihin/puppies)).
 - [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/) (**repository**: [tinyblog-react-typescript
-](https://github.com/omgshalihin/tinyblog-react-typescript/blob/main/README.md)).
+](https://github.com/omgshalihin/tinyblog-react-typescript)).
 
 
 
