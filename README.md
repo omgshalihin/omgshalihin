@@ -89,6 +89,8 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 - Spring Cloud
 - Serverless
 
+<!--
+
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> GitHub Stats:
 
 
@@ -98,6 +100,8 @@ In my free time, I enjoy staying up to date with the latest technology trends an
   <img width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgshalihin&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=00000000">
   
 </div>
+
+-->
 
 <div align="center">
 
