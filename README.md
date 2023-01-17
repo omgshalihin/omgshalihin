@@ -73,10 +73,10 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 - Broadening knowledge on TypeScript through Salt's Post Graduate Program (**repository**: [TypeScript-PGP](https://github.com/omgshalihin/TypeScript-PGP)).
 
 ## ⚡ Fun Personal Projects:
-- Salt Graduation fullstack app called [HireMe](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (**repository**: [skillsondemand](https://github.com/omgshalihin/skillsondemand)).
-- Hackday fullstack app called [Evently Social](https://event-management-frontend-production.up.railway.app/) to address the needs of users wanting to `attend an event with a friend` (**repository**: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
-- Hobby app called [Dog Adoption App](https://comforting-rolypoly-5e7c45.netlify.app/) (**repository**: [puppies](https://github.com/omgshalihin/puppies)).
-- Frontend TypeScript Project called [My Tiny Blog](https://velvety-mousse-60b7c6.netlify.app/)(**repository**: [tinyblog-react-typescript
+- [`HireMe`](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (**repository**: [skillsondemand](https://github.com/omgshalihin/skillsondemand)).
+- [`Evently Social`](https://event-management-frontend-production.up.railway.app/) (**repository**: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
+- [`Dog Adoption App`](https://comforting-rolypoly-5e7c45.netlify.app/) (**repository**: [puppies](https://github.com/omgshalihin/puppies)).
+- [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/) (**repository**: [tinyblog-react-typescript
 ](https://github.com/omgshalihin/tinyblog-react-typescript/blob/main/README.md)).
 
 
