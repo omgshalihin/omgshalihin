@@ -70,6 +70,7 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 ## 🔭 I’m Currently:
 - Learning / preparing for AWS Developer - Associate Certification (**repository**: [aws-dev-code](https://github.com/omgshalihin/aws-dev-code)).
 - Learning to deploy serverless functions to any platform using Spring Cloud Function (**repository**: [severless-spring-cloud-function](https://github.com/omgshalihin/severless-spring-cloud-function)).
+- Learning to secure API with Spring Security 6 - JWT Authentication and Authorisation (**repository**: [spring-boot-3-jwt-security](https://github.com/omgshalihin/spring-boot-3-jwt-security)).
 - Broadening knowledge on TypeScript through Salt's Post Graduate Program (**repository**: [TypeScript-PGP](https://github.com/omgshalihin/TypeScript-PGP)).
 
 ## ⚡ Fun Personal Projects:
