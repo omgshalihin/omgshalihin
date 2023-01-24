@@ -73,12 +73,14 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 - Learning to secure API with Spring Security 6 - JWT Authentication and Authorisation (**repository**: [spring-boot-3-jwt-security](https://github.com/omgshalihin/spring-boot-3-jwt-security)).
 - Broadening knowledge on TypeScript through Salt's Post Graduate Program (**repository**: [TypeScript-PGP](https://github.com/omgshalihin/TypeScript-PGP)).
 
-## ⚡ Fun Personal Projects:
-- [`HireMe`](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (**repository**: [skillsondemand](https://github.com/omgshalihin/skillsondemand)).
+## ⚡ Fun Personal Projects (sorted oldest first):
 - [`Evently Social`](https://event-management-frontend-production.up.railway.app/) (**repository**: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
+- [`HireMe`](https://skillsondemand-production.up.railway.app/gallery?location=Stockholm,%20Sweden&service=) (**repository**: [skillsondemand](https://github.com/omgshalihin/skillsondemand)).
 - [`Dog Adoption App`](https://comforting-rolypoly-5e7c45.netlify.app/) (**repository**: [puppies](https://github.com/omgshalihin/puppies)).
 - [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/) (**repository**: [tinyblog-react-typescript
 ](https://github.com/omgshalihin/tinyblog-react-typescript)).
+- MVP of [`Milk Store`](https://superb-sfogliatella-51fb95.netlify.app/) (**repository**: [milk-store-FE
+](https://github.com/omgshalihin/milk-store-FE)).
 
 
 
