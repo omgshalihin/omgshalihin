@@ -80,7 +80,7 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 ](https://github.com/omgshalihin/tinyblog-react-typescript)).
 - [`Dog Adoption App`](https://comforting-rolypoly-5e7c45.netlify.app/) (**repository**: [puppies](https://github.com/omgshalihin/puppies)).
 - [`HireMe`](https://63d003ffbe962f1363cf2061--bright-unicorn-6ed0a4.netlify.app/gallery?location=Stockholm,%20Sweden&service=) (**repository**: [skillsondemand](https://github.com/omgshalihin/skillsondemand)).
-- [`Evently Social`](https://event-management-frontend-production.up.railway.app/) (**repository**: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
+- [`Evently Social`](https://63d005432f6aa213f29a9105--fanciful-alfajores-29b19d.netlify.app/) (**repository**: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
 
 
  
