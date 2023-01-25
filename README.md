@@ -68,6 +68,7 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 In my free time, I enjoy staying up to date with the latest technology trends and exploring new tools and frameworks. Overall, I'm a motivated and enthusiastic learner, always looking for ways to improve and make a positive impact in the tech industry.
 
 ## 🔭 I’m Currently:
+- Learning Spring WebFlux
 - Learning / preparing for AWS Developer - Associate Certification (**repository**: [aws-dev-code](https://github.com/omgshalihin/aws-dev-code)).
 - Learning to deploy serverless functions to any platform using Spring Cloud Function (**repository**: [severless-spring-cloud-function](https://github.com/omgshalihin/severless-spring-cloud-function)).
 - Learning to secure API with Spring Security 6 - JWT Authentication and Authorisation (**repository**: [spring-boot-3-jwt-security](https://github.com/omgshalihin/spring-boot-3-jwt-security)).
