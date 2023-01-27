@@ -34,7 +34,7 @@
  ||| Core Java | TypeScript
  ||| GitHub | MUI CSS
  ||| IntelliJ | Netlify
- ||| Unit Test
+ ||| Unit Test | Mantine
  ||| REST API
  ||| Spring Boot
  ||| Maven
