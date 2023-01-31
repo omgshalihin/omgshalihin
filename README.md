@@ -36,7 +36,7 @@
  ||| IntelliJ | Netlify
  ||| Unit Test | Mantine
  ||| REST API | AWS AMI
- ||| Spring Boot
+ ||| Spring Boot | AWS EFS
  ||| Maven
  ||| Docker
  ||| MySQL / NoSQL / PostgreSQL
