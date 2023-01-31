@@ -37,9 +37,9 @@
  ||| Unit Test | Mantine
  ||| REST API | AWS Amazon Machine Image (AMI)
  ||| Spring Boot | AWS Elastic File System (EFS)
- ||| Maven | AWS Elastic Load Balancer (ELB)
- ||| Docker
- ||| MySQL / NoSQL / PostgreSQL
+ ||| Maven | AWS Elastic Load Balancer (ELB) - ALB, NLB, GWLB
+ ||| Docker | AWS ELB Target Group
+ ||| MySQL / NoSQL / PostgreSQL | 
  ||| MongoDB & Atlas
  ||| VS Code
  ||| ESLint
