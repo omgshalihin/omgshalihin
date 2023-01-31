@@ -39,7 +39,7 @@
  ||| Spring Boot | AWS Elastic File System (EFS)
  ||| Maven | AWS Elastic Load Balancer (ELB) - ALB, NLB, GWLB
  ||| Docker | AWS ELB Target Group
- ||| MySQL / NoSQL / PostgreSQL | 
+ ||| MySQL / NoSQL / PostgreSQL | AWS Auto Scaling Group (ASG)
  ||| MongoDB & Atlas
  ||| VS Code
  ||| ESLint
