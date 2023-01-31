@@ -35,9 +35,9 @@
  ||| GitHub | MUI CSS
  ||| IntelliJ | Netlify
  ||| Unit Test | Mantine
- ||| REST API | AWS AMI
- ||| Spring Boot | AWS EFS
- ||| Maven
+ ||| REST API | AWS Amazon Machine Image (AMI)
+ ||| Spring Boot | AWS Elastic File System (EFS)
+ ||| Maven | AWS Elastic Load Balancer (ELB)
  ||| Docker
  ||| MySQL / NoSQL / PostgreSQL
  ||| MongoDB & Atlas
