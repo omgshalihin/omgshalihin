@@ -29,13 +29,13 @@
  | AWS SA Assc    | CSS  | DataGrip | AWS EC2 Fundamentals
  | Python         | JavaScript | Python | AWS Security Groups
  | Atom IDE       | Linux      | pandas | AWS SSH / EC2 Instance Connect
- || MySQL | NumPy | AWS EBS 
+ || MySQL | NumPy | AWS EBS Volume & EBS Snapshots
  ||| matplotlib | Serverless with spring cloud functions
  ||| Core Java | TypeScript
  ||| GitHub | MUI CSS
  ||| IntelliJ | Netlify
  ||| Unit Test | Mantine
- ||| REST API
+ ||| REST API | AWS AMI
  ||| Spring Boot
  ||| Maven
  ||| Docker
