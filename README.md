@@ -40,7 +40,7 @@
  ||| Maven | AWS Elastic Load Balancer (ELB) - ALB, NLB, GWLB
  ||| Docker | AWS ELB Target Group
  ||| MySQL / NoSQL / PostgreSQL | AWS Auto Scaling Group (ASG)
- ||| MongoDB & Atlas
+ ||| MongoDB & Atlas | AWS Relational Database Service (RDS)
  ||| VS Code
  ||| ESLint
  ||| NodeJS
