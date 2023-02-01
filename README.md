@@ -42,7 +42,7 @@
  ||| MySQL / NoSQL / PostgreSQL | AWS Auto Scaling Group (ASG)
  ||| MongoDB & Atlas | AWS Relational Database Service (RDS)
  ||| VS Code | AWS ElastiCache
- ||| ESLint
+ ||| ESLint | AWS Route53
  ||| NodeJS
  ||| DOM Manipulation
  ||| ES7
