@@ -41,7 +41,7 @@
  ||| Docker | AWS ELB Target Group
  ||| MySQL / NoSQL / PostgreSQL | AWS Auto Scaling Group (ASG)
  ||| MongoDB & Atlas | AWS Relational Database Service (RDS)
- ||| VS Code
+ ||| VS Code | AWS ElastiCache
  ||| ESLint
  ||| NodeJS
  ||| DOM Manipulation
