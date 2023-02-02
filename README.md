@@ -43,8 +43,8 @@
  ||| MongoDB & Atlas | AWS Relational Database Service (RDS)
  ||| VS Code | AWS ElastiCache
  ||| ESLint | AWS Route53
- ||| NodeJS
- ||| DOM Manipulation
+ ||| NodeJS | AWS Virtual Private Cloud (VPC) Fundamentals
+ ||| DOM Manipulation | AWS S3 Introduction 
  ||| ES7
  ||| npm
  ||| React
