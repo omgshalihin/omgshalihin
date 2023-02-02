@@ -84,7 +84,7 @@ In my free time, I enjoy staying up to date with the latest technology trends an
 
  
 ## 🌱 Seeking To Expand Knowledge In:
-- Docker
+- Kotlin
 - Kubernetes
 - Spring Security
 - Spring Cloud
