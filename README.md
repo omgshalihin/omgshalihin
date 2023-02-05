@@ -68,8 +68,8 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 In my free time, I enjoy staying up to date with the latest technology trends and exploring new tools and frameworks. Overall, I'm a motivated and enthusiastic learner, always looking for ways to improve and make a positive impact in the tech industry.
 
 ## 🔭 I’m Currently:
-- Preparing for AWS Developer - Associate Certification (**repository**: [aws-dev-code](https://github.com/omgshalihin/aws-dev-code)).
-- Learning to build **Reactive API** utilizing [Spring WebFlux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html).
+- Preparing for AWS Developer - Associate Certification (**repository**: [aws-dev-code](https://github.com/omgshalihin/aws-dev-code))
+- Learning to build **Reactive API** utilizing [Spring WebFlux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)
 - ~~Learning **Java reactive programming** [Course Link](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) (**repository**: [reactive-java-workshop](https://github.com/omgshalihin/reactive-java-workshop)).~~
 - ~~Broadening knowledge on **TypeScript** through Salt's Post Graduate Program (**repository**: [TypeScript-PGP](https://github.com/omgshalihin/TypeScript-PGP)).~~
 
