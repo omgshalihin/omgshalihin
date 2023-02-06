@@ -44,9 +44,9 @@
  ||| VS Code | AWS ElastiCache
  ||| ESLint | AWS Route53
  ||| NodeJS | AWS Virtual Private Cloud (VPC) Fundamentals
- ||| DOM Manipulation | AWS S3 Introduction 
- ||| ES7
- ||| npm
+ ||| DOM Manipulation | AWS S3 
+ ||| ES7 | AWS CloudFront
+ ||| npm | Docker in AWS
  ||| React
  ||| CSS Modules
  ||| Mocha / Chai / Jest / Cypress
