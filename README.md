@@ -47,7 +47,7 @@
  ||| DOM Manipulation | AWS S3 
  ||| ES7 | AWS CloudFront
  ||| npm | Docker in AWS
- ||| React
+ ||| React | AWS Elastic Beanstalk
  ||| CSS Modules
  ||| Mocha / Chai / Jest / Cypress
  ||| Next.js
