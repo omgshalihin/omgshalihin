@@ -48,7 +48,7 @@
  ||| ES7 | AWS CloudFront
  ||| npm | Docker in AWS
  ||| React | AWS Elastic Beanstalk
- ||| CSS Modules
+ ||| CSS Modules | AWS CI/CD - CodeCommit, CodePipeline, CodeBuild, Code Deploy, CodeStar, CodeArtifact, CodeGuru
  ||| Mocha / Chai / Jest / Cypress
  ||| Next.js
  ||| Gihub Actions & Workflow
