@@ -69,7 +69,13 @@
  
 </details>
 
+<div align="left">
+
 I'm a `full-stack developer` with a strong focus on `Java`. In addition to my full-stack development skills, I've a strong interest in `data analytics` and `cloud engineering` and I seek to expand my knowledge and capabilities in these areas. I'm excited to continue learning and growing as a developer, and I'm eager to contribute my skills and expertise to a team or organization.
+  
+</div>
+  
+  
 
 <div align="center">
 
