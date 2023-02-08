@@ -73,7 +73,7 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 
 <div align="center">
 
-  ### Favorite Tech Stack
+  ### 🎖️ Favorite Tech Stack 🎖️
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![springboot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![junit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
