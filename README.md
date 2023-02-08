@@ -4,13 +4,19 @@
   
 </div>
 
+<!--
+
 <div align="center">
   
   <img width="auto" height="auto" src="https://streak-stats.demolab.com?user=omgshalihin&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=96D0FF&background=00000000&fire=96D0FF&currStreakLabel=96D0FF">
 
 </div>
 
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> ![Visitor Count](https://profile-counter.glitch.me/omgshalihin/count.svg)
+-->
+
+
+
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <!-- ![Visitor Count](https://profile-counter.glitch.me/omgshalihin/count.svg) -->
 
 <details>
  <summary>Expand/Collapse --- ✨ My Java Developer Roadmap ✨</summary>
@@ -63,9 +69,24 @@
  
 </details>
 
-I'm a `full-stack developer` with a strong focus on `Java`. In addition to my full stack development skills, I've a strong interest in `data analytics` and `cloud engineering` and I seek to expand my knowledge and capabilities in these areas. I'm excited to continue learning and growing as a developer, and I'm eager to contribute my skills and expertise to a team or organization.
+I'm a `full-stack developer` with a strong focus on `Java`. In addition to my full-stack development skills, I've a strong interest in `data analytics` and `cloud engineering` and I seek to expand my knowledge and capabilities in these areas. I'm excited to continue learning and growing as a developer, and I'm eager to contribute my skills and expertise to a team or organization.
 
-In my free time, I enjoy staying up to date with the latest technology trends and exploring new tools and frameworks. Overall, I'm a motivated and enthusiastic learner, always looking for ways to improve and make a positive impact in the tech industry.
+<div align="center">
+
+  ### Favorite Tech Stack
+  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![springboot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![junit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+  ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![nextjs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+  
+</div>
 
 ## 🔭 I’m Currently:
 - Preparing for AWS Developer - Associate Certification (**repository**: [aws-dev-code](https://github.com/omgshalihin/aws-dev-code))
@@ -102,6 +123,8 @@ In my free time, I enjoy staying up to date with the latest technology trends an
   
 </div>
 -->
+
+<!--
 
 <div align="center">
 
@@ -161,6 +184,8 @@ In my free time, I enjoy staying up to date with the latest technology trends an
   ![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
  
 </div>
+
+-->
   
 <!--
 **omgshalihin/omgshalihin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
