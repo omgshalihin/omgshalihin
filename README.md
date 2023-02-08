@@ -49,7 +49,7 @@
  ||| npm | Docker in AWS
  ||| React | AWS Elastic Beanstalk
  ||| CSS Modules | AWS CI/CD - CodeCommit, CodePipeline, CodeBuild, Code Deploy, CodeStar, CodeArtifact, CodeGuru
- ||| Mocha / Chai / Jest / Cypress
+ ||| Mocha / Chai / Jest / Cypress | AWS CloudFormation
  ||| Next.js
  ||| Gihub Actions & Workflow
  ||| Microsoft Azure
