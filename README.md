@@ -118,7 +118,7 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 - Kubernetes
 - Spring Security
 - Spring Cloud
-- Serverless
+- Serverless (AWS Lambda)
 
 <!--
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> GitHub Stats:
