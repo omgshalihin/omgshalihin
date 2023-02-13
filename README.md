@@ -1,3 +1,4 @@
+<img src="https://www.codewars.com/users/omgshalihin/badges/micro" />
 <div align="center">
   
   <img width="100%" height="auto" src="https://github.com/omgshalihin/omgshalihin/blob/main/particle-banner.gif">
