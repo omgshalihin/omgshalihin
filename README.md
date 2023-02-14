@@ -60,7 +60,7 @@
  ||| Next.js | AWS CloudWatch, CloudTrail
  ||| Gihub Actions & Workflow | AWS SQS, SNS
  ||| Microsoft Azure | AWS Lambda
- ||| Github Actions & Workflows
+ ||| Github Actions & Workflows | AWS DynamoDB
  ||| Spring Security
  ||| Next Authentication
  ||| Google Maps API
