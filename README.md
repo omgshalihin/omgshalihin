@@ -61,7 +61,7 @@
  ||| Gihub Actions & Workflow | AWS SQS, SNS
  ||| Microsoft Azure | AWS Lambda
  ||| Github Actions & Workflows | AWS DynamoDB
- ||| Spring Security
+ ||| Spring Security | Information Retrieval Algorithm TF-IDF
  ||| Next Authentication
  ||| Google Maps API
  ||| Tailwind CSS
