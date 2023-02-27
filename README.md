@@ -105,6 +105,7 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 - ~~Broadening knowledge on **TypeScript** through Salt's Post Graduate Program (**repository**: [TypeScript-PGP](https://github.com/omgshalihin/TypeScript-PGP)).~~
 
 ## ⚡ Fun Personal Projects (sorted most recent first):
+- MVP of Bank App (**repository**: [bank-app-backend](https://github.com/omgshalihin/bank-app-backend)).
 - MVP of [`Milk Store`](https://superb-sfogliatella-51fb95.netlify.app/) (**repository**: [milk-store-FE
 ](https://github.com/omgshalihin/milk-store-FE)).
 - [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/) (**repository**: [tinyblog-react-typescript
