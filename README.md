@@ -98,6 +98,7 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 </div>
 
 ## 🔭 I’m Currently:
+- Building an MVP of a Bank App using Spring Reactive, MongoDB, NextJS, OKTA, NextAuth (**repository**: [bank-app-backend](https://github.com/omgshalihin/bank-app-backend)).
 - Preparing for AWS Developer - Associate Certification (**repository**: [aws-dev-code](https://github.com/omgshalihin/aws-dev-code))
 - Learning to build **Reactive API** utilizing [Spring WebFlux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) (**repository**: [reactive-API-spring-webflux-simple-CRUD](https://github.com/omgshalihin/reactive-API-spring-webflux-simple-CRUD))
 - Optimising a simple search engine based on statistical measurement called TF-IDF to further understand relevancy scoring in Elasticsearch (**repository**: [searchEngineTFIDF](https://github.com/omgshalihin/searchEngineTFIDF))
@@ -105,7 +106,6 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 - ~~Broadening knowledge on **TypeScript** through Salt's Post Graduate Program (**repository**: [TypeScript-PGP](https://github.com/omgshalihin/TypeScript-PGP)).~~
 
 ## ⚡ Fun Personal Projects (sorted most recent first):
-- MVP of Bank App (**repository**: [bank-app-backend](https://github.com/omgshalihin/bank-app-backend)).
 - MVP of [`Milk Store`](https://superb-sfogliatella-51fb95.netlify.app/) (**repository**: [milk-store-FE
 ](https://github.com/omgshalihin/milk-store-FE)).
 - [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/) (**repository**: [tinyblog-react-typescript
