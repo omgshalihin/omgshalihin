@@ -62,8 +62,8 @@
  ||| Microsoft Azure | AWS Lambda
  ||| Github Actions & Workflows | AWS DynamoDB
  ||| Spring Security | Information Retrieval Algorithm TF-IDF
- ||| Next Authentication
- ||| Google Maps API
+ ||| Next Authentication | Spring Reactive Web, Spring Data Reactive
+ ||| Google Maps API | NextJS 13, NextAuth, Tailwind CSS
  ||| Tailwind CSS
  ||| Railway.app
  ||| AWS Dev Assc
