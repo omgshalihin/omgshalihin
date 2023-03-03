@@ -101,7 +101,7 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 - Building an MVP of a Bank App
   - Cloud Database: `MongoDB Atlas` 
   - Backend: `Spring Reactive Web`, `Spring Data Reactive`, `MongoDB` (**repository**: [bank-app-backend](https://github.com/omgshalihin/bank-app-backend)).
-  - Frontend: `React`, `NextJS`, `NextAuth`, `Tailwind CSS` (**repository**: [bank-app-frontend](https://github.com/omgshalihin/bank-app-frontend)).
+  - Frontend: `TypeScript`, `NextJS 13`, `NextAuth`, `Tailwind CSS` (**repository**: [bank-app-frontend](https://github.com/omgshalihin/bank-app-frontend)).
 
 - Preparing for AWS Developer - Associate Certification (**repository**: [aws-dev-code](https://github.com/omgshalihin/aws-dev-code))
 - Learning to build **Reactive API** utilizing [Spring WebFlux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) (**repository**: [reactive-API-spring-webflux-simple-CRUD](https://github.com/omgshalihin/reactive-API-spring-webflux-simple-CRUD))
