@@ -98,7 +98,7 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 </div>
 
 ## 🔭 I’m Currently:
-- Building an MVP of a Bank App
+- Building an MVP of a Financial Management App for educational purposes only:
   - Cloud Database: `MongoDB Atlas` 
   - Backend: `Spring Reactive Web`, `Spring Data Reactive`, `MongoDB` (**repository**: [bank-app-backend](https://github.com/omgshalihin/bank-app-backend)).
   - Frontend: `TypeScript`, `NextJS 13`, `NextAuth`, `Tailwind CSS` (**repository**: [bank-app-frontend](https://github.com/omgshalihin/bank-app-frontend)).
