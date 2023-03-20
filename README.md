@@ -66,7 +66,7 @@
  ||| Google Maps API | NextJS 13, NextAuth, Tailwind CSS
  ||| Tailwind CSS | Docker, postgreSQL, SQL
  ||| Railway.app | Revisit Java Data Structures (Collections Framework)
- ||| AWS Dev Assc
+ ||| AWS Dev Assc | Apache Kafka
  
 </details>
 
@@ -101,7 +101,8 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 - Preparing for AWS Developer - Associate Certification (**repository**: [aws-dev-code](https://github.com/omgshalihin/aws-dev-code))
 - Learning to build **Reactive API** utilizing [Spring WebFlux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) (**repository**: [reactive-API-spring-webflux-simple-CRUD](https://github.com/omgshalihin/reactive-API-spring-webflux-simple-CRUD))
 - Optimising **Search Engine** to further understand **relevancy scoring** in [Elasticsearch](https://www.elastic.co/) (**repository**: [searchEngineTFIDF](https://github.com/omgshalihin/searchEngineTFIDF))
-- Dive deeper into Java Data Structures i.e. Collections Framework (**repository**: [java-data-structures](https://github.com/omgshalihin/java-data-structures))
+- Learning Event-Driven Microservices Architecture with `SpringBoot` and `Apache Kafka`(**repository**: [searchEngineTFIDF](https://github.com/omgshalihin/searchEngineTFIDF))
+- ~~Dive deeper into Java Data Structures i.e. Collections Framework (**repository**: [java-data-structures](https://github.com/omgshalihin/java-data-structures))~~
 - ~~Learning **Java reactive programming** [Course Link](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) (**repository**: [reactive-java-workshop](https://github.com/omgshalihin/reactive-java-workshop)).~~
 - ~~Broadening knowledge on **TypeScript** through Salt's Post Graduate Program (**repository**: [TypeScript-PGP](https://github.com/omgshalihin/TypeScript-PGP)).~~
 - ~~Building an MVP of a [`Financial Management App`](https://clinquant-longma-34fa83.netlify.app/) for educational purposes only:~~
