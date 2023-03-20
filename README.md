@@ -99,6 +99,7 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 
 ## 🔭 I’m Currently:
 - Preparing for `AWS Developer` - Associate Certification (**repository**: [aws-dev-code](https://github.com/omgshalihin/aws-dev-code))
+
 - Learning to build **Reactive API** utilizing [`Spring WebFlux`](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html) (**repository**: [reactive-API-spring-webflux-simple-CRUD](https://github.com/omgshalihin/reactive-API-spring-webflux-simple-CRUD))
 - Optimising **Search Engine** to further understand **relevancy scoring** in [`Elasticsearch`](https://www.elastic.co/) (**repository**: [searchEngineTFIDF](https://github.com/omgshalihin/searchEngineTFIDF))
 - Learning Event-Driven Microservices Architecture with `SpringBoot` and [`Apache Kafka`](https://kafka.apache.org/intro)(**repository**: [event-driven-microservices-springboot-kafka](https://github.com/omgshalihin/event-driven-microservices-springboot-kafka))
@@ -112,6 +113,7 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 
 ## ⚡ Fun Personal Projects (sorted most recent first):
 - [`Financial Management App`](https://clinquant-longma-34fa83.netlify.app/) made with reactive Java & MongoDB and NextJs 13 (**repository**: [bank-app-backend](https://github.com/omgshalihin/bank-app-backend))
+
 - Search Engine based on statistical measurement called TF-IDF (**repository**: [searchEngineTFIDF](https://github.com/omgshalihin/searchEngineTFIDF))
 - MVP of [`Milk Store`](https://superb-sfogliatella-51fb95.netlify.app/) (**repository**: [milk-store-FE
 ](https://github.com/omgshalihin/milk-store-FE)).
@@ -125,6 +127,7 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
  
 ## 🌱 Seeking To Expand Knowledge In:
 - Elastic (ELK) Stack
+
   - Elasticsearch
   - Kibana
   - Logstash 
