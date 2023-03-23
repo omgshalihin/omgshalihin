@@ -112,9 +112,10 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
   - ~~Frontend: `TypeScript`, `NextJS 13`, `NextAuth`, `Tailwind CSS` (**repository**: [bank-app-frontend](https://github.com/omgshalihin/bank-app-frontend)).~~
 
 ## ⚡ Fun Personal Projects (sorted most recent first):
-- [`Financial Management App`](https://clinquant-longma-34fa83.netlify.app/) made with reactive Java & MongoDB and NextJs 13 (**repository**: [bank-app-backend](https://github.com/omgshalihin/bank-app-backend))
+- `twit-API` is an API/service that is built with Java to mimic the behavior of Twitter (**repository**: [twit-API](https://github.com/omgshalihin/twit-API))
 
-- Search Engine based on statistical measurement called TF-IDF (**repository**: [searchEngineTFIDF](https://github.com/omgshalihin/searchEngineTFIDF))
+- [`Financial Management App`](https://clinquant-longma-34fa83.netlify.app/) made with reactive Java & MongoDB and NextJs 13 (**repository**: [bank-app-backend](https://github.com/omgshalihin/bank-app-backend))
+- `Search Engine` based on statistical measurement called TF-IDF (**repository**: [searchEngineTFIDF](https://github.com/omgshalihin/searchEngineTFIDF))
 - MVP of [`Milk Store`](https://superb-sfogliatella-51fb95.netlify.app/) (**repository**: [milk-store-FE
 ](https://github.com/omgshalihin/milk-store-FE)).
 - [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/) (**repository**: [tinyblog-react-typescript
