@@ -67,6 +67,7 @@
  ||| Tailwind CSS | Docker, postgreSQL, SQL
  ||| Railway.app | Revisit Java Data Structures (Collections Framework)
  ||| AWS Dev Assc | Apache Kafka
+ |||| AWS API Gateway
  
 </details>
 
