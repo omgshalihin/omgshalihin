@@ -105,20 +105,12 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 - [🔗](https://github.com/omgshalihin/reactive-API-spring-webflux-simple-CRUD) Learning to build `Reactive API` utilizing `Spring WebFlux`
 - [🔗](https://github.com/omgshalihin/searchEngineTFIDF) Optimising `Search Engine` to further understand `relevancy scoring` in `Elasticsearch`
 - [🔗](https://github.com/omgshalihin/event-driven-microservices-springboot-kafka) Learning `Event-Driven Microservices` Architecture with `SpringBoot` and `Apache Kafka`
-- ~~[🔗](https://github.com/omgshalihin/spring-security-starter) Expanding knowledge and making a template on `Spring Security 6.0`~~
-- ~~[🔗](https://github.com/omgshalihin/java-data-structures) Dive deeper into Java Data Structures i.e. Collections Framework~~
-- ~~[🔗](https://github.com/omgshalihin/reactive-java-workshop) Learning **Java reactive programming** [Course Link](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI)~~
-- ~~[🔗](https://github.com/omgshalihin/TypeScript-PGP) Broadening knowledge on **TypeScript** through Salt's Post Graduate Program~~
-- ~~Building an MVP of a [`Financial Management App`](https://clinquant-longma-34fa83.netlify.app/) for educational purposes only:~~
-  - ~~Cloud Database: `MongoDB Atlas`~~
-  - ~~[🔗](https://github.com/omgshalihin/bank-app-backend) Backend: `Spring Reactive Web`, `Spring Data Reactive`, `MongoDB`~~
-  - ~~[🔗](https://github.com/omgshalihin/bank-app-frontend) Frontend: `TypeScript`, `NextJS 13`, `NextAuth`, `Tailwind CSS`~~
 
 ## ⚡ Fun Personal Projects (sorted most recent first):
 - [🔗](https://github.com/omgshalihin/twit-API) `twit-API` is an API/service that is built with Java to mimic the behavior of Twitter
 
-- [🔗](https://github.com/omgshalihin/bank-app-backend) [`Financial Management App`](https://clinquant-longma-34fa83.netlify.app/) made with reactive Java & MongoDB and NextJs 13
-- [🔗](https://github.com/omgshalihin/searchEngineTFIDF) `Search Engine` based on statistical measurement called TF-IDF
+- [🔗](https://github.com/omgshalihin/bank-app-backend) [`Financial Management App`](https://clinquant-longma-34fa83.netlify.app/) features a dashboard, account creation, deposits and transfers
+- [🔗](https://github.com/omgshalihin/searchEngineTFIDF) `Search Engine` to understand relevancy scoring in search engines based on statistical measurement called TF-IDF
 - [🔗](https://github.com/omgshalihin/milk-store-FE) MVP of [`Milk Store`](https://superb-sfogliatella-51fb95.netlify.app/)
 - [🔗](https://github.com/omgshalihin/tinyblog-react-typescript) [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/)
 - [🔗](https://github.com/omgshalihin/puppies) [`Dog Adoption App`](https://comforting-rolypoly-5e7c45.netlify.app/)
