@@ -100,34 +100,35 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 </div>
 
 ## 🔭 I’m Currently:
-- Preparing for `AWS Developer` - Associate Certification (**repository**: [aws-dev-code](https://github.com/omgshalihin/aws-dev-code))
+- [🔗](https://github.com/omgshalihin/aws-dev-code) Preparing for `AWS Developer` Associate Certification
 
-- Learning to build `Reactive API` utilizing `Spring WebFlux` (**repository**: [reactive-API-spring-webflux-simple-CRUD](https://github.com/omgshalihin/reactive-API-spring-webflux-simple-CRUD))
-- Optimising `Search Engine` to further understand `relevancy scoring` in `Elasticsearch` (**repository**: [searchEngineTFIDF](https://github.com/omgshalihin/searchEngineTFIDF))
-- Learning `Event-Driven Microservices` Architecture with `SpringBoot` and `Apache Kafka` (**repository**: [event-driven-microservices-springboot-kafka](https://github.com/omgshalihin/event-driven-microservices-springboot-kafka))
-- ~~Expanding knowledge and making a template on `Spring Security 6.0` (**repository**: [spring-security-starter](https://github.com/omgshalihin/spring-security-starter))~~
-- ~~Dive deeper into Java Data Structures i.e. Collections Framework (**repository**: [java-data-structures](https://github.com/omgshalihin/java-data-structures))~~
-- ~~Learning **Java reactive programming** [Course Link](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI) (**repository**: [reactive-java-workshop](https://github.com/omgshalihin/reactive-java-workshop)).~~
-- ~~Broadening knowledge on **TypeScript** through Salt's Post Graduate Program (**repository**: [TypeScript-PGP](https://github.com/omgshalihin/TypeScript-PGP)).~~
+- [🔗](https://github.com/omgshalihin/reactive-API-spring-webflux-simple-CRUD) Learning to build `Reactive API` utilizing `Spring WebFlux`
+- [🔗](https://github.com/omgshalihin/searchEngineTFIDF) Optimising `Search Engine` to further understand `relevancy scoring` in `Elasticsearch`
+- [🔗](https://github.com/omgshalihin/event-driven-microservices-springboot-kafka) Learning `Event-Driven Microservices` Architecture with `SpringBoot` and `Apache Kafka`
+- ~~[🔗](https://github.com/omgshalihin/spring-security-starter) Expanding knowledge and making a template on `Spring Security 6.0`~~
+- ~~[🔗](https://github.com/omgshalihin/java-data-structures) Dive deeper into Java Data Structures i.e. Collections Framework~~
+- ~~[🔗](https://github.com/omgshalihin/reactive-java-workshop) Learning **Java reactive programming** [Course Link](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI)~~
+- ~~[🔗](https://github.com/omgshalihin/TypeScript-PGP) Broadening knowledge on **TypeScript** through Salt's Post Graduate Program~~
 - ~~Building an MVP of a [`Financial Management App`](https://clinquant-longma-34fa83.netlify.app/) for educational purposes only:~~
   - ~~Cloud Database: `MongoDB Atlas`~~
-  - ~~Backend: `Spring Reactive Web`, `Spring Data Reactive`, `MongoDB` (**repository**: [bank-app-backend](https://github.com/omgshalihin/bank-app-backend)).~~
-  - ~~Frontend: `TypeScript`, `NextJS 13`, `NextAuth`, `Tailwind CSS` (**repository**: [bank-app-frontend](https://github.com/omgshalihin/bank-app-frontend)).~~
+  - ~~[🔗](https://github.com/omgshalihin/bank-app-backend) Backend: `Spring Reactive Web`, `Spring Data Reactive`, `MongoDB`~~
+  - ~~[🔗](https://github.com/omgshalihin/bank-app-frontend) Frontend: `TypeScript`, `NextJS 13`, `NextAuth`, `Tailwind CSS`~~
 
 ## ⚡ Fun Personal Projects (sorted most recent first):
-- `twit-API` is an API/service that is built with Java to mimic the behavior of Twitter (**repository**: [twit-API](https://github.com/omgshalihin/twit-API))
+- [🔗](https://github.com/omgshalihin/twit-API) `twit-API` is an API/service that is built with Java to mimic the behavior of Twitter
 
-- [`Financial Management App`](https://clinquant-longma-34fa83.netlify.app/) made with reactive Java & MongoDB and NextJs 13 (**repository**: [bank-app-backend](https://github.com/omgshalihin/bank-app-backend))
-- `Search Engine` based on statistical measurement called TF-IDF (**repository**: [searchEngineTFIDF](https://github.com/omgshalihin/searchEngineTFIDF))
-- MVP of [`Milk Store`](https://superb-sfogliatella-51fb95.netlify.app/) (**repository**: [milk-store-FE
-](https://github.com/omgshalihin/milk-store-FE)).
-- [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/) (**repository**: [tinyblog-react-typescript
-](https://github.com/omgshalihin/tinyblog-react-typescript)).
-- [`Dog Adoption App`](https://comforting-rolypoly-5e7c45.netlify.app/) (**repository**: [puppies](https://github.com/omgshalihin/puppies)).
-- [`HireMe`](https://63d003ffbe962f1363cf2061--bright-unicorn-6ed0a4.netlify.app/gallery?location=Stockholm,%20Sweden&service=) (**repository**: [skillsondemand](https://github.com/omgshalihin/skillsondemand)).
-- [`Evently Social`](https://63d005432f6aa213f29a9105--fanciful-alfajores-29b19d.netlify.app/) (**repository**: [event-management-frontend](https://github.com/omgshalihin/event-management-frontend)).
+- [🔗](https://github.com/omgshalihin/bank-app-backend) [`Financial Management App`](https://clinquant-longma-34fa83.netlify.app/) made with reactive Java & MongoDB and NextJs 13
+- [🔗](https://github.com/omgshalihin/searchEngineTFIDF) `Search Engine` based on statistical measurement called TF-IDF
+- [🔗](https://github.com/omgshalihin/milk-store-FE) MVP of [`Milk Store`](https://superb-sfogliatella-51fb95.netlify.app/)
+- [🔗](https://github.com/omgshalihin/tinyblog-react-typescript) [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/)
+- [🔗](https://github.com/omgshalihin/puppies) [`Dog Adoption App`](https://comforting-rolypoly-5e7c45.netlify.app/)
+- [🔗](https://github.com/omgshalihin/skillsondemand) [`HireMe`](https://63d003ffbe962f1363cf2061--bright-unicorn-6ed0a4.netlify.app/gallery?location=Stockholm,%20Sweden&service=)
+- [🔗](https://github.com/omgshalihin/event-management-frontend) [`Evently Social`](https://63d005432f6aa213f29a9105--fanciful-alfajores-29b19d.netlify.app/)
 
+## 📌 Personal Productivity Starter Templates (sorted most recent first):
+- [🔗](https://github.com/omgshalihin/spring-security-starter) A Spring Security 6.0 Guide For Spring Boot 3 
 
+- [🔗](https://github.com/omgshalihin/git-addCommitPush-allInOneCommand) Git All-In-One Command
  
 ## 🌱 Seeking To Expand Knowledge In:
 - Elastic (ELK) Stack
