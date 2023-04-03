@@ -115,7 +115,7 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 - [🔗](https://github.com/omgshalihin/milk-store-FE) MVP of [`Milk Store`](https://superb-sfogliatella-51fb95.netlify.app/)
 - [🔗](https://github.com/omgshalihin/tinyblog-react-typescript) [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/)
 - [🔗](https://github.com/omgshalihin/puppies) [`Dog Adoption App`](https://comforting-rolypoly-5e7c45.netlify.app/)
-- [🔗](https://github.com/omgshalihin/skillsondemand) [`HireMe`](https://63d003ffbe962f1363cf2061--bright-unicorn-6ed0a4.netlify.app/gallery?location=Stockholm,%20Sweden&service=)
+- [🔗](https://github.com/omgshalihin/skillsondemand) [`HireMe`](https://bright-unicorn-6ed0a4.netlify.app/gallery?location=stockholm&service=)
 - [🔗](https://github.com/omgshalihin/event-management-frontend) [`Evently Social`](https://63d005432f6aa213f29a9105--fanciful-alfajores-29b19d.netlify.app/)
 
 ## 📌 Personal Productivity Starter Templates (sorted most recent first):
