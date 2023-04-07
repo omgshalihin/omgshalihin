@@ -106,7 +106,6 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 - [🔗](https://github.com/omgshalihin/searchEngineTFIDF) Optimising `Search Engine` to further understand `relevancy scoring` in `Elasticsearch`
 - [🔗](https://github.com/omgshalihin/event-driven-microservices-springboot-kafka) Learning `Event-Driven Microservices` Architecture with `SpringBoot` and `Apache Kafka`
 - [🔗](https://github.com/omgshalihin/shalihin-portfolio) Creating a developer [`Portfolio`](https://shalihin.vercel.app/) with `Next 13`
-- [🔗](https://github.com/omgshalihin/shalihin-portfolio) Learning `Authentication & Authorization` with `JWT`
 
 ## ⚡ Fun Personal Projects (sorted most recent first):
 - [🔗](https://github.com/omgshalihin/twit-API) `twit-API` is an API/service that is built with Java to mimic the behavior of Twitter
@@ -120,8 +119,9 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 - [🔗](https://github.com/omgshalihin/event-management-frontend) [`Evently Social`](https://63d005432f6aa213f29a9105--fanciful-alfajores-29b19d.netlify.app/)
 
 ## 📌 Personal Productivity Starter Templates (sorted most recent first):
-- [🔗](https://github.com/omgshalihin/spring-security-starter) A Spring Security 6.0 Guide For Spring Boot 3 
+- [🔗](https://github.com/omgshalihin/spring-security-starter-jwt) Spring Security Authentication & Authorization - `JWT`
 
+- [🔗](https://github.com/omgshalihin/spring-security-starter) Spring Security Authentication & Authorization - `Basic`
 - [🔗](https://github.com/omgshalihin/git-addCommitPush-allInOneCommand) Git All-In-One Command
  
 ## 🌱 Seeking To Expand Knowledge In:
