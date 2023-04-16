@@ -108,13 +108,14 @@ I'm a `full-stack developer` with a strong focus on `Java`. In addition to my fu
 - [🔗](https://github.com/omgshalihin/shalihin-portfolio) Creating a developer [`Portfolio`](https://shalihin.vercel.app/) with `Next 13`
 
 ## ⚡ Fun Personal Projects (sorted most recent first):
-- [🔗](https://github.com/omgshalihin/twit-API) `twit-API` is an API/service that is built with Java to mimic the behavior of Twitter
+- [🔗](https://github.com/omgshalihin/twit) [`Twit`](https://twit-rose.vercel.app/login) is a webapp that is built ontop of [twit-API](https://github.com/omgshalihin/twit-API)
 
+- [🔗](https://github.com/omgshalihin/twit-API) `twit-API` is an API/service that is built with Java to mimic the behavior of Twitter
 - [🔗](https://github.com/omgshalihin/bank-app-backend) [`Financial Management App`](https://clinquant-longma-34fa83.netlify.app/) features a dashboard, account creation, deposits and transfers
 - [🔗](https://github.com/omgshalihin/searchEngineTFIDF) `Search Engine` to understand relevancy scoring in search engines based on statistical measurement called TF-IDF
 - [🔗](https://github.com/omgshalihin/milk-store-FE) MVP of [`Milk Store`](https://superb-sfogliatella-51fb95.netlify.app/)
 - [🔗](https://github.com/omgshalihin/tinyblog-react-typescript) [`My Tiny Blog`](https://velvety-mousse-60b7c6.netlify.app/)
-- [🔗](https://github.com/omgshalihin/skillsondemand) [`HireMe`](https://bright-unicorn-6ed0a4.netlify.app/gallery?location=stockholm&service=)
+- [🔗](https://github.com/omgshalihin/skillsondemand) `HireMe`
 
 ## 📌 Personal Productivity Starter Templates (sorted most recent first):
 - [🔗](https://github.com/omgshalihin/spring-security-starter-jwt) Spring Security Authentication & Authorization - `JWT`
